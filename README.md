@@ -1,4 +1,4 @@
-<a href="https://cloudflare-worker-counter.ohaddahan.workers.dev?name=https://github.com/ohaddahan"/>
+![COUNTER](https://cloudflare-worker-counter.ohaddahan.workers.dev?name=https://github.com/ohaddahan)
 
 ### Hi there 👋
 

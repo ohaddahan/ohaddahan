@@ -1,4 +1,4 @@
-<img src="https://cloudflare-worker-counter.ohaddahan.workers.dev?name=https://github.com/ohaddahan&bla=1"/>
+<img src="https://cloudflare-worker-counter.ohaddahan.workers.dev?name=https://github.com/ohaddahan"/>
 
 ### Hi there 👋
 

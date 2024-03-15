@@ -1,5 +1,5 @@
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://cloudflare-worker-counter.ohaddahan.workers.dev?name=https://github.com/ohaddahan&nonce=1"/></p>
+<p align="center"><img src="https://cloudflare-worker-counter.ohaddahan.com?name=https://github.com/ohaddahan&nonce=1"/></p>
 
 ### Hi there 👋
 

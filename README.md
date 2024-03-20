@@ -11,4 +11,5 @@
 - 💼 [My LinkedIn](https://www.linkedin.com/in/ohad-dahan-a31033266/)
 - 🔗 [My LinkTree](https://linktr.ee/ohad.dahan)
    
-[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/ohaddahan/langs](https://api.githubtrends.io/user/svg/ohaddahan/langs?time_range=one_year&theme=dark)https://api.githubtrends.io/user/svg/ohaddahan/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ohaddahan/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ohaddahan/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
